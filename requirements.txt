@@ -1,5 +1,5 @@
 dnspython==1.16.0
-Flask==1.1.1
+Flask==2.3.2
 flask-paginate==0.5.3
 Flask-Pagination==0.0.1
 Flask-PyMongo==2.3.0
